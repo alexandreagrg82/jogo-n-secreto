@@ -14,6 +14,7 @@ function exibirTextoNaTela(tag, texto) {
 //testando o uso do terminal
 //novo teste terminal
 //testando conflitos edição no repositório remoto
+//novo teste edição local
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 50');
