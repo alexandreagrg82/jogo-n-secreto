@@ -13,7 +13,7 @@ function exibirTextoNaTela(tag, texto) {
 //testando a integração git no vs code
 //testando o uso do terminal
 //novo teste terminal
-//testando conflitos
+//testando conflitos edição no repositório remoto
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 50');
