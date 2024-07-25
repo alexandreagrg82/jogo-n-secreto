@@ -15,9 +15,6 @@ function exibirTextoNaTela(tag, texto) {
 //novo teste terminal
 //testando conflitos edição no repositório remoto
 
-//novo teste edição local e resolução
-
-//testanto revert
 
 
 function exibirMensagemInicial() {
