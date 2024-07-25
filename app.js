@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 //isto é um comentário teste.
 //isto é outro teste.
-//mais um comentário
+//mais um comentário.
 
 
 
