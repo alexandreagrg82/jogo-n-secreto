@@ -8,8 +8,8 @@ function exibirTextoNaTela(tag, texto) {
     campo.innerHTML = texto;
     responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
 }
-//isto é um comentário teste
-//isto é outro teste
+//isto é um comentário teste.
+//isto é outro teste.
 //mais um comentário
 
 
