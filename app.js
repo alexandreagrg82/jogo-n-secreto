@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 // teste comentário
 
-//testanto revert
+
 
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do número secreto');
